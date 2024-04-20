@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.5f4ef4db.js",
+    "static/media/HeroImage.jpg": "/Portfolio/static/media/HeroImage.8b4970594d8b55bca5f7.jpg",
+    "static/media/recipeBook.jpg": "/Portfolio/static/media/recipeBook.603a3bf1fa9fec32d243.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.5f4ef4db.js.map": "/Portfolio/static/js/main.5f4ef4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5f4ef4db.js"
+  ]
+}
