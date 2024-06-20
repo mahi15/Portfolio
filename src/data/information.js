@@ -311,7 +311,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/mahi15/recipe-book",
-    webapp: "https://shopping-cart-3f532.firebaseapp.com/auth",
+    webapp: "https://mahi15.github.io/recipe-diary/",
   },
   {
     id: 1,
